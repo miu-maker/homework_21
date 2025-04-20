@@ -1,3 +1,0 @@
-django-admin startproject library_project
-cd library_project
-python manage.py startapp books
